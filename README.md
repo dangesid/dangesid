@@ -8,11 +8,7 @@
 # Data Scientist and ML Expert...
 
 
-
 ## 🛠 Tech Stack
-
-
-## Tech Stack
 
 
 **Technologies:** Machine Learning, Deep Learning, Python, Linux Commands, Generative AI 
